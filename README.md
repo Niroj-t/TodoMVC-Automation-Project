@@ -44,3 +44,17 @@ git clone https://github.com/pratik9905/MiniProject_PlayWright.git
 ### 2️⃣ Install dependencies
 ```bash
 npm install
+```
+### 3️⃣ Run tests (Headless)
+```bash
+npx playwright test
+```
+### 4️⃣ Run tests (Headed)
+```bash
+npx playwright test --headed
+```
+### 5️⃣ View Report
+```bash
+npx playwright show-report
+```
+
