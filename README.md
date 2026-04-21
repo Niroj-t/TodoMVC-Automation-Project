@@ -6,7 +6,7 @@ A robust End-to-End (E2E) test automation project demonstrating modern testing p
 
 ## Project Overview
 
-This project automates critical user workflows of the TodoMVC React Application, showcasing:
+This project automates critical user workflows of the TodoMVC React Application https://todomvc.com/examples/react/dist/, showcasing:
 
 - ✅ Resilient Locator Strategies using `getByRole` and `getByTestId`
 - ✅ Atomic Test Design principles
