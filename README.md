@@ -39,7 +39,7 @@ The project includes atomic tests (`todo.spec.js`) covering:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/pratik9905/MiniProject_PlayWright.git
+git clone https://github.com/Niroj-t/TodoMVC-Automation-Project.git
 ```
 ### 2️⃣ Install dependencies
 ```bash
